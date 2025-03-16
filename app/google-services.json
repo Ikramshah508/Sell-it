@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595182452306",
+    "project_id": "sell-it-57ae0",
+    "storage_bucket": "sell-it-57ae0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595182452306:android:000f829e1be6c09841298b",
+        "android_client_info": {
+          "package_name": "com.example.sellit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2n8bTnEsVfycutTxpXF4-US3yqXnnPY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
