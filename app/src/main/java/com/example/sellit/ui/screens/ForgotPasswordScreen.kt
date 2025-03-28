@@ -1,6 +1,6 @@
 package com.example.sellit.ui.screens
 
-import android.util.Pattern
+import android.util.Patterns
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
