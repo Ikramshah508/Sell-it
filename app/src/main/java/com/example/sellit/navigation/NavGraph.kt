@@ -27,7 +27,7 @@ sealed class Screen(val route: String) {
     data object ProductDetail : Screen("product_detail/{productId}") {
         fun createRoute(productId: String) = "product_detail/$productId"
     }
-    data object Profile : Screen("profile")
+    data object Profile : Screen("profile"
 }
 
 @Composable
