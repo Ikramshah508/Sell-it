@@ -58,7 +58,7 @@ import com.google.firebase.firestore.FirebaseFirestore
 import kotlinx.coroutines.tasks.await
 
 @OptIn(ExperimentalMaterial3Api::class)
-@Composabl
+@Composable
 fun ProfileScreen(navController: NavController) {
     val auth = FirebaseAuth.getInstance()
     val context = LocalContext.current
